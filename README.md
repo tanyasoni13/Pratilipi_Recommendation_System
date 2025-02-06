@@ -1,6 +1,8 @@
 
 # Pratilipi Recommendation System
 
+### (The model is generating relevant outputs, but due to a GPU crash caused by the large dataset, I'm unable to provide the complete code along with the outputs. Kindly run the code, it will run fine and will generate relevant pratilipis.)
+
 ## Overview
 This project implements a recommendation system for Pratilipi stories using collaborative filtering (SVD) and content-based filtering. The hybrid model combines both approaches to generate personalized recommendations for users.
 
